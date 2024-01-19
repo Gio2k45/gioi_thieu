@@ -162,7 +162,9 @@ section .title::after{
 
 .home{
     display: flex;
-    background: black;
+/*     background: black; */
+    background: url(https://thuthuatnhanh.com/wp-content/uploads/2022/05/background-tim-bau-troi-sao.jpg) no-repeat center center fixed;
+    background-size: cover;
     height: 100vh;
     color: #fff;
     min-height: 500px;
