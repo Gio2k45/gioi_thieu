@@ -212,9 +212,9 @@ section .title::after{
     background: none;
 }
 
-.about .title::after{
+/* .about .title::after{
     content: "Bạn Nghĩ Như Nào ?";
-}
+} */
 .about .about-content .left{
     width: 45%;
 }
@@ -299,9 +299,9 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
-.skills .title::after{
+/* .skills .title::after{
     content: "Có thể sai hoặc đúng nhé :)";
-}
+} */
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
