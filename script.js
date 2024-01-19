@@ -97,7 +97,7 @@ $(document).ready(function(){
 
 var music = document.getElementById("music");
 var circle = document.getElementById("circle");
-var musics = ["nhacList/nhacnen1.mp3", "nhacList/nhacnen2.mp3", "nhacList/nhacnen3.mp3", "nhacList/nhacnen4.mp3", "nhacList/nhacnen5.mp3"];
+var musics = ["nhacList/anh_thanh_nien.mp3", "nhacList/la_anh.mp3", "nhacList/khuat_loi.mp3", "nhacList/tuong_quan.mp3"];
 var currentMusicIndex = -1
 
 function toggleMusic() {
